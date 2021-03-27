@@ -1,4 +1,4 @@
-Johnny Coder
+Paolo Cetti
 ============
 
 -------------------     ----------------------------
@@ -7,11 +7,11 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-Education
+Educacion
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2021 (expected)
+:   **ITS Villada**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -22,7 +22,7 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
+Experiencia
 ----------
 
 **Your Most Recent Work Experience:**
